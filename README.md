@@ -31,7 +31,7 @@ A sound taxonomy was created based on the framework proposed by Aiello et al. (2
 - Music
 - Nature
 - Indoor
-- 
+
 Each category contains several subcategories and associated keywords.
 
 #### 2. Sound Wheel
