@@ -54,11 +54,11 @@ For every street segment, sound tags within the corresponding buffer are counted
 
 Python packages used in this project:
 
-pandas
-numpy
-matplotlib
-plotly
-geopandas
+- pandas
+- numpy
+- matplotlib
+- plotly
+- geopandas
 
 ## Output
 
